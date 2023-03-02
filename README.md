@@ -1,3 +1,3 @@
 # arrayPossui
 
-Dado um array e um número, verifica se o array possui o elemento dado utilizando uma função recursiva.
+Dado um array, verifica se o possui o elemento especifico, utilizando uma função recursiva.
